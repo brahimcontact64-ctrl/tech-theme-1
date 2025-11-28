@@ -1,0 +1,193 @@
+[
+  {
+    "id": "1",
+    "category_id": "1",
+    "name_fr": "PC Gaming RTX 4070 Ultra",
+    "name_ar": "كمبيوتر ألعاب RTX 4070 Ultra",
+    "description_fr": "PC Gaming haute performance avec RTX 4070, Intel i7-13700K, 32GB RAM DDR5, SSD NVMe 1TB. RGB personnalisable.",
+    "description_ar": "كمبيوتر ألعاب عالي الأداء مع RTX 4070، Intel i7-13700K، 32 جيجا بايت رام DDR5، SSD NVMe 1 تيرابايت. RGB قابل للتخصيص.",
+    "price_dzd": 285000,
+    "original_price_dzd": 340000,
+    "image_url": "https://images.pexels.com/photos/7973122/pexels-photo-7973122.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/7172877/pexels-photo-7172877.jpeg",
+      "https://images.pexels.com/photos/2582928/pexels-photo-2582928.jpeg"
+    ],
+    "specs": {
+      "CPU": "Intel i7-13700K",
+      "GPU": "RTX 4070 12GB",
+      "RAM": "32GB DDR5",
+      "Storage": "1TB NVMe SSD",
+      "RGB": "Oui"
+    },
+    "stock": 15,
+    "is_featured": true,
+    "is_flash_sale": true,
+    "flash_sale_end": "2025-12-01T23:59:59Z",
+    "slug": "pc-gaming-rtx-4070-ultra"
+  },
+  {
+    "id": "2",
+    "category_id": "2",
+    "name_fr": "Clavier Mécanique RGB Pro",
+    "name_ar": "لوحة مفاتيح ميكانيكية RGB Pro",
+    "description_fr": "Clavier mécanique avec switchs Cherry MX, RGB 16.8M couleurs, construction aluminium premium.",
+    "description_ar": "لوحة مفاتيح ميكانيكية مع مفاتيح Cherry MX، RGB 16.8 مليون لون، بناء ألومنيوم متميز.",
+    "price_dzd": 12500,
+    "original_price_dzd": null,
+    "image_url": "https://images.pexels.com/photos/2115257/pexels-photo-2115257.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/1194713/pexels-photo-1194713.jpeg"
+    ],
+    "specs": {
+      "Switch": "Cherry MX Red",
+      "RGB": "16.8M couleurs",
+      "Matériau": "Aluminium",
+      "Connexion": "USB-C"
+    },
+    "stock": 42,
+    "is_featured": true,
+    "is_flash_sale": false,
+    "slug": "clavier-mecanique-rgb-pro"
+  },
+  {
+    "id": "3",
+    "category_id": "3",
+    "name_fr": "Chaise Gaming Titan X",
+    "name_ar": "كرسي ألعاب Titan X",
+    "description_fr": "Chaise gaming ergonomique avec support lombaire, accoudoirs 4D, cuir PU premium, RGB intégré.",
+    "description_ar": "كرسي ألعاب مريح مع دعم قطني، مساند ذراع 4D، جلد PU فاخر، RGB مدمج.",
+    "price_dzd": 45000,
+    "original_price_dzd": null,
+    "image_url": "https://images.pexels.com/photos/8588732/pexels-photo-8588732.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/7862492/pexels-photo-7862492.jpeg"
+    ],
+    "specs": {
+      "Matériau": "Cuir PU",
+      "Support": "Lombaire + Nuque",
+      "RGB": "Oui",
+      "Poids max": "150kg"
+    },
+    "stock": 18,
+    "is_featured": false,
+    "is_flash_sale": false,
+    "slug": "chaise-gaming-titan-x"
+  },
+  {
+    "id": "4",
+    "category_id": "4",
+    "name_fr": "RTX 4060 Ti Gaming",
+    "name_ar": "RTX 4060 Ti للألعاب",
+    "description_fr": "Carte graphique NVIDIA RTX 4060 Ti 8GB, Ray Tracing, DLSS 3.0, RGB Fusion.",
+    "description_ar": "بطاقة رسومات NVIDIA RTX 4060 Ti 8 جيجا بايت، تتبع الأشعة، DLSS 3.0، RGB Fusion.",
+    "price_dzd": 89000,
+    "original_price_dzd": 105000,
+    "image_url": "https://images.pexels.com/photos/7172877/pexels-photo-7172877.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/2582928/pexels-photo-2582928.jpeg"
+    ],
+    "specs": {
+      "VRAM": "8GB GDDR6",
+      "Ray Tracing": "Oui",
+      "DLSS": "3.0",
+      "TDP": "160W"
+    },
+    "stock": 25,
+    "is_featured": false,
+    "is_flash_sale": true,
+    "flash_sale_end": "2025-11-30T23:59:59Z",
+    "slug": "rtx-4060-ti-gaming"
+  },
+  {
+    "id": "5",
+    "category_id": "5",
+    "name_fr": "Casque Gaming 7.1 Surround",
+    "name_ar": "سماعة ألعاب 7.1 محيطي",
+    "description_fr": "Casque gaming avec son surround 7.1, micro antibruit, RGB synchronisé, coussinets mémoire de forme.",
+    "description_ar": "سماعة ألعاب مع صوت محيطي 7.1، ميكروفون مضاد للضوضاء، RGB متزامن، وسائد إسفنج ذاكرة.",
+    "price_dzd": 8500,
+    "original_price_dzd": null,
+    "image_url": "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/205926/pexels-photo-205926.jpeg"
+    ],
+    "specs": {
+      "Son": "7.1 Surround",
+      "Micro": "Antibruit",
+      "RGB": "Oui",
+      "Connexion": "USB + Jack 3.5mm"
+    },
+    "stock": 60,
+    "is_featured": true,
+    "is_flash_sale": false,
+    "slug": "casque-gaming-71-surround"
+  },
+  {
+    "id": "6",
+    "category_id": "1",
+    "name_fr": "PC Streaming RGB Elite",
+    "name_ar": "كمبيوتر بث RGB Elite",
+    "description_fr": "Configuration optimale pour le streaming avec Ryzen 9 7900X, RTX 4070 Ti, 64GB RAM, capture card intégrée.",
+    "description_ar": "تكوين مثالي للبث مع Ryzen 9 7900X، RTX 4070 Ti، 64 جيجا بايت رام، بطاقة التقاط مدمجة.",
+    "price_dzd": 425000,
+    "original_price_dzd": null,
+    "image_url": "https://images.pexels.com/photos/2582928/pexels-photo-2582928.jpeg",
+    "images": [],
+    "specs": {
+      "CPU": "Ryzen 9 7900X",
+      "GPU": "RTX 4070 Ti 12GB",
+      "RAM": "64GB DDR5",
+      "Storage": "2TB NVMe SSD"
+    },
+    "stock": 8,
+    "is_featured": true,
+    "is_flash_sale": false,
+    "slug": "pc-streaming-rgb-elite"
+  },
+  {
+    "id": "7",
+    "category_id": "2",
+    "name_fr": "Clavier Compact TKL Wireless",
+    "name_ar": "لوحة مفاتيح مدمجة TKL لاسلكية",
+    "description_fr": "Clavier TenKeyLess sans fil, batterie 3000mAh, RGB per-key, Bluetooth 5.1 + dongle 2.4GHz.",
+    "description_ar": "لوحة مفاتيح TenKeyLess لاسلكية، بطارية 3000 مللي أمبير، RGB لكل مفتاح، Bluetooth 5.1 + دونجل 2.4 جيجاهرتز.",
+    "price_dzd": 18900,
+    "original_price_dzd": 22000,
+    "image_url": "https://images.pexels.com/photos/1194713/pexels-photo-1194713.jpeg",
+    "images": [],
+    "specs": {
+      "Format": "TKL (80%)",
+      "Batterie": "3000mAh",
+      "Connexion": "BT 5.1 / 2.4GHz",
+      "RGB": "Per-key"
+    },
+    "stock": 35,
+    "is_featured": false,
+    "is_flash_sale": true,
+    "flash_sale_end": "2025-11-29T23:59:59Z",
+    "slug": "clavier-compact-tkl-wireless"
+  },
+  {
+    "id": "8",
+    "category_id": "5",
+    "name_fr": "Souris Gaming Ultra-Légère",
+    "name_ar": "فأرة ألعاب خفيفة الوزن",
+    "description_fr": "Souris gaming 59g, capteur 26000 DPI, switches optiques, câble paracord, patins PTFE.",
+    "description_ar": "فأرة ألعاب 59 جرام، مستشعر 26000 نقطة في البوصة، مفاتيح بصرية، كابل باراكورد، وسادات PTFE.",
+    "price_dzd": 9500,
+    "original_price_dzd": null,
+    "image_url": "https://images.pexels.com/photos/2115257/pexels-photo-2115257.jpeg",
+    "images": [],
+    "specs": {
+      "Poids": "59g",
+      "DPI": "26000",
+      "Switches": "Optiques",
+      "Câble": "Paracord"
+    },
+    "stock": 50,
+    "is_featured": true,
+    "is_flash_sale": false,
+    "slug": "souris-gaming-ultra-legere"
+  }
+]

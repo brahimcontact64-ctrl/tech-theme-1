@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "title_fr": "Méga Soldes Tech",
+    "title_ar": "تخفيضات التكنولوجيا الكبرى",
+    "description_fr": "Jusqu'à 30% de réduction sur une sélection de produits gaming",
+    "description_ar": "خصم يصل إلى 30% على مجموعة مختارة من منتجات الألعاب",
+    "discount_percent": 30,
+    "start_date": "2025-11-20T00:00:00Z",
+    "end_date": "2025-12-05T23:59:59Z",
+    "is_active": true
+  },
+  {
+    "id": "2",
+    "title_fr": "Flash Sale RGB",
+    "title_ar": "تخفيضات سريعة RGB",
+    "description_fr": "Offres limitées sur les périphériques RGB - Stock limité",
+    "description_ar": "عروض محدودة على أجهزة RGB - مخزون محدود",
+    "discount_percent": 25,
+    "start_date": "2025-11-26T00:00:00Z",
+    "end_date": "2025-11-30T23:59:59Z",
+    "is_active": true
+  }
+]

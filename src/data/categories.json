@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name_fr": "PCs Gaming",
+    "name_ar": "أجهزة الكمبيوتر للألعاب",
+    "slug": "pcs-gaming",
+    "icon": "monitor",
+    "display_order": 1
+  },
+  {
+    "id": "2",
+    "name_fr": "Claviers",
+    "name_ar": "لوحات المفاتيح",
+    "slug": "keyboards",
+    "icon": "keyboard",
+    "display_order": 2
+  },
+  {
+    "id": "3",
+    "name_fr": "Chaises Gaming",
+    "name_ar": "كراسي الألعاب",
+    "slug": "gaming-chairs",
+    "icon": "armchair",
+    "display_order": 3
+  },
+  {
+    "id": "4",
+    "name_fr": "Composants",
+    "name_ar": "المكونات",
+    "slug": "components",
+    "icon": "cpu",
+    "display_order": 4
+  },
+  {
+    "id": "5",
+    "name_fr": "Accessoires",
+    "name_ar": "الإكسسوارات",
+    "slug": "accessories",
+    "icon": "headphones",
+    "display_order": 5
+  }
+]
